@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Harold","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor1_8","characterIndex":7,"characterName":"Actor1","classId":2,"equips":[2,1,2,3,0],"faceIndex":7,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Therese","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Basi_SV","characterIndex":0,"characterName":"Basi_walk","classId":5,"equips":[5,0,0,5,0],"faceIndex":0,"faceName":"Basi_faces","traits":[],"initialLevel":1,"maxLevel":99,"name":"Perdita","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Casper_actor","characterIndex":4,"characterName":"Casper_char","classId":6,"equips":[6,0,0,0,0],"faceIndex":0,"faceName":"cat_faces","traits":[],"initialLevel":1,"maxLevel":99,"name":"Casper","nickname":"","note":"","profile":""}
+]

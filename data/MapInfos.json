@@ -1,0 +1,18 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Town","order":1,"parentId":0,"scrollX":540.6666666666666,"scrollY":316.6666666666667},
+{"id":2,"expanded":false,"name":"Horror_Inside","order":2,"parentId":1,"scrollX":546,"scrollY":307.3333333333333},
+{"id":3,"expanded":false,"name":"Forest","order":3,"parentId":1,"scrollX":655.2,"scrollY":368.8},
+{"id":4,"expanded":false,"name":"Overworld","order":7,"parentId":0,"scrollX":655.2,"scrollY":368.8},
+{"id":5,"expanded":true,"name":"Town (Creepy)","order":8,"parentId":0,"scrollX":540.6666666666666,"scrollY":316.6666666666667},
+{"id":6,"expanded":false,"name":"Playground","order":4,"parentId":1,"scrollX":728,"scrollY":409.77777777777777},
+{"id":7,"expanded":false,"name":"Graveyard","order":5,"parentId":1,"scrollX":540.6666666666666,"scrollY":316.6666666666667},
+{"id":8,"expanded":false,"name":"Horror_Inside_After_Pool","order":6,"parentId":1,"scrollX":655.2,"scrollY":368.8},
+{"id":9,"expanded":false,"name":"Forest_creepy","order":9,"parentId":5,"scrollX":540.6666666666666,"scrollY":316.6666666666667},
+{"id":10,"expanded":false,"name":"Playground_Creepy","order":10,"parentId":5,"scrollX":540.6666666666666,"scrollY":307.3333333333333},
+{"id":11,"expanded":false,"name":"Graveyard (Creepy)","order":11,"parentId":5,"scrollX":655.2,"scrollY":368.8},
+{"id":12,"expanded":false,"name":"Aisute's House","order":12,"parentId":0,"scrollX":728,"scrollY":409.77777777777777},
+{"id":13,"expanded":true,"name":"Forest_Entrance","order":13,"parentId":0,"scrollX":728,"scrollY":409.77777777777777},
+{"id":14,"expanded":false,"name":"Forest_Path","order":14,"parentId":13,"scrollX":728,"scrollY":409.77777777777777},
+{"id":15,"expanded":false,"name":"Aisute's House Outside","order":15,"parentId":0,"scrollX":728,"scrollY":409.77777777777777}
+]
