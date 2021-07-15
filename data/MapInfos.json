@@ -2,7 +2,7 @@
 null,
 {"id":1,"expanded":true,"name":"Town","order":1,"parentId":0,"scrollX":540.6666666666666,"scrollY":316.6666666666667},
 {"id":2,"expanded":false,"name":"Horror_Inside","order":2,"parentId":1,"scrollX":546,"scrollY":307.3333333333333},
-{"id":3,"expanded":false,"name":"Forest","order":3,"parentId":1,"scrollX":516.6666666666666,"scrollY":318.3333333333333},
+{"id":3,"expanded":false,"name":"Forest","order":3,"parentId":1,"scrollX":540.6666666666666,"scrollY":316.6666666666667},
 {"id":4,"expanded":false,"name":"Overworld","order":7,"parentId":0,"scrollX":540.6666666666666,"scrollY":316.6666666666667},
 {"id":5,"expanded":true,"name":"Town (Creepy)","order":8,"parentId":0,"scrollX":540.6666666666666,"scrollY":316.6666666666667},
 {"id":6,"expanded":false,"name":"Playground","order":4,"parentId":1,"scrollX":655.2,"scrollY":368.8},
